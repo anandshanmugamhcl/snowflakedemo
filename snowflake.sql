@@ -1,0 +1,6 @@
+CREATE TABLE DEMO_DB.TEST_SCHEMA.dealer_master (
+Dealer_ID  VARCHAR(100),
+Name  VARCHAR(100),
+City  VARCHAR(100),
+State  VARCHAR(100)
+)
